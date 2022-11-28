@@ -1,5 +1,6 @@
 {
   "name": "portfolio-web",
+  "homepage": "https://daniloo.dev",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
