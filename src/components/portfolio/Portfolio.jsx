@@ -1,9 +1,9 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.png'
+import IMG4 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG1 from '../../assets/Terminal.png'
 import IMG5 from '../../assets/portfolio5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 
@@ -11,16 +11,17 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Api Gestão universidade',
-    github: 'https://github.com/DaniloWA/backEndFlag-app',
-    demo: 'https://github.com/DaniloWA/backEndFlag-app',
+    title: 'Terminal JS project',
+    github: 'https://github.com/DaniloWA/terminal-3.0',
+    demo: 'https://terminal.daniloo.dev/',
+    
   },
   {
     id: 2,
-    image: IMG2,
-    title: 'Store website project',
-    github: 'https://github.com/DaniloWA/FrontEndFlag',
-    demo: 'https://github.com/DaniloWA/FrontEndFlag',
+    image: IMG4,
+    title: 'Api Gestão universidade',
+    github: 'https://github.com/DaniloWA/backEndFlag-app',
+    demo: 'https://github.com/DaniloWA/backEndFlag-app',
   },
   {
     id: 3,
@@ -29,12 +30,13 @@ const data = [
     github: 'https://github.com/DaniloWA/Jogo-da-velha',
     demo: 'https://github.com/DaniloWA/Jogo-da-velha',
   },
+
   {
     id: 4,
-    image: IMG4,
-    title: 'Terminal JS project',
-    github: 'https://github.com/DaniloWA/terminal-3.0',
-    demo: 'https://github.com/DaniloWA/terminal-3.0',
+    image: IMG2,
+    title: 'Store website project',
+    github: 'https://github.com/DaniloWA/FrontEndFlag',
+    demo: 'https://github.com/DaniloWA/FrontEndFlag',
   },
   {
     id: 5,

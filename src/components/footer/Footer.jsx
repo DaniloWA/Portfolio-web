@@ -33,7 +33,7 @@ const Footer = () => {
         <a href="https://www.instagram.com/danilo.oliveira_eu/" target="_blank" rel="noreferrer"><BsInstagram /></a>
       </div>
 
-      <div className="footer__copyright">
+      <div className="footer__copyright" id='sdown'>
         <small>Feito com carinho por Danilo Oliveira </small>
       </div>
     </footer>

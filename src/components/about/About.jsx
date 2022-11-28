@@ -46,7 +46,7 @@ const About = () => {
             Aguardo novos desafios e novos projetos para trabalhar, e claro, pessoas incríveis para trabalhar!
           </p>
 
-          <a href="#contact" className='btn btn-primary'>Contato</a>
+          <a href="https://www.linkedin.com/in/danilo-oliveira-web/" target="_blank" className='btn btn-primary' rel="noreferrer">Contato</a>
         </div>
       </div>
     </section>
