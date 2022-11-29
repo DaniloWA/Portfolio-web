@@ -4,7 +4,7 @@ import IMG4 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG1 from '../../assets/Terminal.png'
-import IMG5 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/bloco_notas.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 
 const data = [
@@ -43,7 +43,7 @@ const data = [
     image: IMG5,
     title: 'Bloco de notas',
     github: 'https://github.com/DaniloWA/bloco-notas',
-    demo: 'https://github.com/DaniloWA/bloco-notas',
+    demo: 'https://blocodenotas.daniloo.dev',
   },
   {
     id: 6,
