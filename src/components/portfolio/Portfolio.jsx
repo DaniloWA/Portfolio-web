@@ -5,52 +5,51 @@ import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG1 from '../../assets/Terminal.png'
 import IMG5 from '../../assets/bloco_notas.png'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG6 from '../../assets/magic_match.png'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'Terminal JS project',
+    title: 'Terminal, JS Vanilla',
     github: 'https://github.com/DaniloWA/terminal-3.0',
     demo: 'https://terminal.daniloo.dev/',
     
   },
   {
+    id: 6,
+    image: IMG6,
+    title: 'Magic Match, React JS',
+    github: 'https://github.com/DaniloWA/magic_memory_react',
+    demo: 'https://magicmatch.daniloo.dev/',
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'Bloco de notas, JS Vanilla',
+    github: 'https://github.com/DaniloWA/bloco-notas',
+    demo: 'https://blocodenotas.daniloo.dev',
+  },
+  {
     id: 2,
     image: IMG4,
-    title: 'Api Gestão universidade',
+    title: 'Api Gestão universidade, Laravel',
     github: 'https://github.com/DaniloWA/backEndFlag-app',
     demo: 'https://github.com/DaniloWA/backEndFlag-app',
   },
   {
     id: 3,
     image: IMG3,
-    title: 'Jogo da Velha',
+    title: 'Jogo da Velha, JS Vanilla',
     github: 'https://github.com/DaniloWA/Jogo-da-velha',
     demo: 'https://github.com/DaniloWA/Jogo-da-velha',
   },
-
   {
     id: 4,
     image: IMG2,
-    title: 'Store website project',
+    title: 'Store website project, React JS',
     github: 'https://github.com/DaniloWA/FrontEndFlag',
     demo: 'https://github.com/DaniloWA/FrontEndFlag',
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: 'Bloco de notas',
-    github: 'https://github.com/DaniloWA/bloco-notas',
-    demo: 'https://blocodenotas.daniloo.dev',
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'Api feita com NODE',
-    github: 'https://github.com/DaniloWA/node-api-flag',
-    demo: 'https://github.com/DaniloWA/node-api-flag',
   },
 ]
 
